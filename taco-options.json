@@ -1,0 +1,46 @@
+{
+  "meats": [
+    {
+      "name": "Beef",
+      "imagePath": "/images/beef.jpg" 
+    },    
+    {
+      "name": "Chicken",
+      "imagePath": "/images/chicken.jpg" 
+    },
+    {
+      "name": "Fish",
+      "imagePath": "/images/fish.jpg" 
+    },
+    {
+      "name": "Shrimp",
+      "imagePath": "/images/shrimp.jpg" 
+    }
+  ], 
+  "toppings": [
+    {
+      "name": "Cheese",
+      "imagePath": "/images/cheese.jpg"
+    },
+    {
+      "name": "Sour Cream",
+      "imagePath": "/images/sour-cream.jpg"
+    },
+    {
+      "name": "Olives",
+      "imagePath": "/images/olives.jpg"
+    },
+    {
+      "name": "Jalapeños",
+      "imagePath": "/images/jalapenos.jpg"
+    },
+    {
+      "name": "Tomatoes",
+      "imagePath": "/images/tomatoes.jpg"
+    },
+    {
+      "name": "Lettuce",
+      "imagePath": "/images/lettuce.jpg"
+    }
+  ]
+}
